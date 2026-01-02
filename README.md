@@ -153,7 +153,7 @@ This publication signifies the handbook's alignment with the EU's goals of foste
 
 ## About the Author
 
-This handbook was created and is maintained by **Ali Kazemi**, an IBM certified AI Solution Architect.
+This handbook was created and is maintained by **Aran Kazemi**, an IBM certified AI Solution Architect.
 
 With over 15 years of experience in IT and extensive management roles at international companies, Ali specializes in designing and building scalable, intelligent systems for enterprise clients. He created this handbook because he believes that a deep understanding of concurrency is essential for building the robust, high-performance applications required in the modern AI-driven landscape.
 
